@@ -1,0 +1,8 @@
+[package]
+name = "lwavr"
+version = "0.1.0"
+authors = ["Lars Wander <lars.wander@gmail.com>"]
+license = "Apache-2.0"
+description = "Small wav file writing library"
+
+[dependencies]
